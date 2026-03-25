@@ -2,15 +2,15 @@
 
 @font-face {
   font-family: font1;
-  src: url('../public/fonts/Lausanne-300.woff2');
+  src: url('/fonts/Lausanne-300.woff2');
 }
 @font-face {
   font-family: font2;
-  src: url('../public/fonts/Lausanne-500.woff2');
+  src: url('/fonts/Lausanne-500.woff2');
 }
 body{
-  background: #111;
-  color: #FFF;
+  background: #e9e6e6;
+  color: #0c0c0c;
 }
 
 .moveLink{
