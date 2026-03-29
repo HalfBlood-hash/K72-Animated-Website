@@ -20,3 +20,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 https://anthropic.skilljar.com/claude-certified-architect-foundations-certification
+https://wsr.pearsonvue.com/testtaker/registration/Dashboard/MICROSOFT?conversationId=359403
